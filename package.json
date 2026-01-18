@@ -42,7 +42,8 @@
     "@stdlib/complex-float64-base-div": "github:stdlib-js/complex-float64-base-div#main",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-try-require": "^0.2.2"
+    "@stdlib/utils-try-require": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.2",
