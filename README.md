@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dladiv from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dladiv@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/lapack-base-dladiv/tags). For example,
+
+```javascript
 import dladiv from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dladiv@v0.1.1-deno/mod.js';
 ```
 
@@ -130,7 +135,7 @@ dladiv.ndarray( 2.0, 1.0, 3.0, 4.0, P, 1, Q, 2 );
 
 ```javascript
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dladiv from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dladiv@v0.1.1-deno/mod.js';
+import dladiv from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dladiv@deno/mod.js';
 
 var P = new Float64Array( 1 );
 var Q = new Float64Array( 1 );
