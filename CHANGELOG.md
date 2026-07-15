@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-11)
+## Unreleased (2026-07-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`199bb30`](https://github.com/stdlib-js/stdlib/commit/199bb30fd65e5ae83acd090f856fd0401edb8acb) - **docs:** update descriptions [(#13481)](https://github.com/stdlib-js/stdlib/pull/13481) _(by Philipp Burckhardt)_
 -   [`45da043`](https://github.com/stdlib-js/stdlib/commit/45da04383459fdf55aaf55f9a8dc8ce19c6839c4) - **bench:** refactor to use string interpolation in `lapack` [(#11610)](https://github.com/stdlib-js/stdlib/pull/11610) _(by Karan Anand)_
 -   [`2ed3934`](https://github.com/stdlib-js/stdlib/commit/2ed3934650fc6e9dd7065f21c4de66e3457cc5cb) - **test:** fix argument order and regenerate fixtures _(by Philipp Burckhardt)_
 
